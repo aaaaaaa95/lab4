@@ -1,3 +1,4 @@
 file=open("name.txt","r")
-file.read(file)
+print(file.read())
+print()
 file.close()
