@@ -20,12 +20,16 @@
 
 
 
-import sys
-name=input("Enter your name:")
-print("My name is",name)
-print("The length of name is:",len(name))
-for i in range(1,len(name)+1):
-    print(i)
+# import sys
+# name=input("Enter your name:")
+# print("My name is",name)
+# print("The length of name is:",len(name))
+# for i in range(1,len(name)+1):
+#     print(i)
+
+
+
+
 
    
 
